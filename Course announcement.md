@@ -19,3 +19,6 @@ https://github.com/PeiqinSun/tf-tutorials/blob/master/01-svhn/Homework%201.md
 ## 大作业
 - 第7周组队+选定指导老师，第11周present
 - 每队不超过3人
+
+## External links
+For quick introduction to Python, can try https://www.learnpython.org/
